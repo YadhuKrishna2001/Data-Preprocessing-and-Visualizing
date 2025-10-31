@@ -1,2 +1,2 @@
 # Exploratory Data Analysis
-preprocessing and visualizing the data 
+preprocessing and visualizing the Flipkart Mobile phone data.
