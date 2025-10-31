@@ -1,2 +1,2 @@
-# Data-Preprocessing-and-Visualizing
+# Exploratory Data Analysis
 preprocessing and visualizing the data 
